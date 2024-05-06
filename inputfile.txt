@@ -1,0 +1,4 @@
+Delivery algorithm: A*
+Start location: 5,5
+Delivery locations: Maternity Ward, S
+Obstacle: None
